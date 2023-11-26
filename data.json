@@ -1,0 +1,45 @@
+{
+    "questions": [
+      {
+        "question_arabic": "كيف يمكنني تحديث معلوماتي الشخصية؟",
+        "answer_arabic": "يمكنك تحديث معلوماتك الشخصية عبر الدخول إلى حسابك على الموقع الإلكتروني وتحديث البيانات الضرورية في الصفحة المخصصة."
+      },
+      {
+        "question_english": "How can I update my personal information?",
+        "answer_english": "You can update your personal information by logging into your account on the website and updating the necessary details on the designated page."
+      },
+      {
+        "question_arabic": "هل يمكنني تقديم الوثائق عبر الإنترنت؟",
+        "answer_arabic": "نعم، يمكنك تحميل الوثائق المطلوبة عبر الموقع الإلكتروني وتقديمها للجهة المعنية بعد ملء الطلب عبر الإنترنت."
+      },
+      {
+        "question_english": "Can I submit documents online?",
+        "answer_english": "Yes, you can upload the required documents on the website and submit them to the relevant authority after filling out the online application."
+      },
+      {
+        "question_arabic": "ما هي الخدمات الإلكترونية المتاحة عبر الموقع الحكومي؟",
+        "answer_arabic": "يتوفر على الموقع الحكومي العديد من الخدمات الإلكترونية مثل تجديد الوثائق، دفع الفواتير، والاستعلام عن الحالة الوظيفية."
+      },
+      {
+        "question_english": "What are the available e-services on the government website?",
+        "answer_english": "The government website offers various e-services such as document renewals, bill payments, and checking employment status."
+      },
+      {
+        "question_arabic": "كيف يمكنني متابعة حالة طلبي؟",
+        "answer_arabic": "يمكنك متابعة حالة طلبك عبر تسجيل الدخول إلى حسابك على الموقع والانتقال إلى قسم متابعة الطلبات."
+      },
+      {
+        "question_english": "How can I track the status of my application?",
+        "answer_english": "You can track the status of your application by logging into your account on the website and navigating to the application tracking section."
+      },
+      {
+        "question_arabic": "كيف يمكنني التواصل مع خدمة العملاء؟",
+        "answer_arabic": "يمكنك التواصل مع خدمة العملاء عبر الاتصال بالرقم المخصص للدعم الفني أو مراسلتهم عبر البريد الإلكتروني."
+      },
+      {
+        "question_english": "How can I contact customer service?",
+        "answer_english": "You can contact customer service by calling the dedicated technical support number or by emailing them."
+      }
+    ]
+  }
+  
