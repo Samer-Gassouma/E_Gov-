@@ -42,7 +42,7 @@ const UserProfilePage = () => {
     <div className="container mx-auto mt-8 p-6 bg-black-900 rounded-md shadow-md text-white">
       {user && (
         <>
-          <h1 className="text-3xl font-bold mb-4">{user.Firstname}'s Profile</h1>
+          <h1 className="text-3xl font-bold mb-4">{user.Firstname} s Profile</h1>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {user.imageUrl && (
               <img src={user.imageUrl} alt={user.Firstname} className="w-40 h-40 md:w-48 md:h-48 ml-0 md:ml-8 rounded-full" />
