@@ -38,7 +38,7 @@ const UserProfileModal = ({ user }) => {
   return (
     <div>
       <img
-        src={user.imageUrl}
+        src="item.jpeg"
         alt="User"
         className="w-10 h-10 rounded-full cursor-pointer"
         onClick={handleModalOpen}
