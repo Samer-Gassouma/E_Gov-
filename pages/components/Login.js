@@ -15,7 +15,7 @@ const Login = () => {
       setPassword(e.target.password.value);
 
       const data = {
-        FatherName: 'khalid',
+        Firstname: 'khalid',
         Lastname: 'khalid',
         email: 'kali@gmail.com',
         PosNas: 'Monastir',
@@ -75,7 +75,7 @@ const Login = () => {
               id="password"
               name="password"
               placeholder="Enter your password"
-              className="w-full border border-gray-300 rounded-md py-2 px-3 focus:outline-none focus:border-blue-500"
+              className="w-full border border-gray-300 text-black rounded-md py-2 px-3 focus:outline-none focus:border-blue-500"
             />
             <div className="text-right mt-2">
               <a href="#" className="text-blue-500 hover:underline">Forgot Password?</a>
